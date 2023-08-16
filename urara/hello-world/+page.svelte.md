@@ -1,12 +1,8 @@
 ---
-title: 'Hello World'
+title: 'Example Post: Hello World'
 image: '/hello-world/urara.webp'
 alt: 'Urara'
-created: 2021-11-01
-updated: 2021-12-12
-tags:
-  - 'Hello World'
-  - 'Urara'
+created: 2002-06-09
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.

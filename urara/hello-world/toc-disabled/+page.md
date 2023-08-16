@@ -1,8 +1,7 @@
 ---
-title: ToC Disabled
+title: 'Example Post: ToC Disabled'
 summary: This post has disabled table of contents.
-created: 2021-12-12
-tags: ['Front-Matter']
+created: 2002-06-09
 toc: false
 ---
 

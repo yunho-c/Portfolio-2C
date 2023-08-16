@@ -1,7 +1,6 @@
 ---
-title: Elements
-created: 2021-12-12
-tags: ['Urara', 'Elements']
+title: 'Example Post: Elements'
+created: 2002-06-09
 ---
 
 ## Headings
