@@ -3,6 +3,8 @@ title: 'Example Post: Hello World'
 image: '/hello-world/urara.webp'
 alt: 'Urara'
 created: 2000-01-01
+flags:
+- unlisted
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.

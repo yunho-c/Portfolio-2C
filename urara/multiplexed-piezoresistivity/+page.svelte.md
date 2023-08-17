@@ -2,7 +2,7 @@
 title: Multiplexed Piezoresistivity DAQ Board
 created: 2023-06-10
 tags: ['Electronics', 'Mechanical Engineering']
-image: '/projects/multiplexed-piezoresistivity/PCB-Render.png'
+image: '/multiplexed-piezoresistivity/PCB-Render.png'
 ---
 
 [`TODO` render image: a human hand that is wearing both TipLets & WristLets]

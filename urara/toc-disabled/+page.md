@@ -2,6 +2,8 @@
 title: 'Example Post: ToC Disabled'
 created: 2000-01-01
 toc: false
+flags:
+- unlisted
 ---
 
 This post has disabled table of contents.

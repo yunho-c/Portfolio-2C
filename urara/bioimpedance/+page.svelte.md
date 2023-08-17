@@ -2,7 +2,7 @@
 title: Bioimpedance-Based Pressure Ulcer Sensor 
 created: 2022-12-07
 tags: ['Electronics', 'Biomedical Engineering']
-image: '/projects/bioimpedance/finished.png'
+image: '/bioimpedance/finished.png'
 ---
 
 [`TODO` render image: a human hand that is wearing both TipLets & WristLets]
