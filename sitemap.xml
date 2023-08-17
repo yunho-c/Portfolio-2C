@@ -11,18 +11,63 @@
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/elements</loc>
-            <lastmod>2023-08-15T01:06:01.427Z</lastmod>
+            <loc>https://urara-demo.netlify.app/announcement</loc>
+            <lastmod>2023-08-17T04:23:05.393Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/toc-disabled</loc>
-            <lastmod>2023-08-15T01:06:01.427Z</lastmod>
+            <loc>https://urara-demo.netlify.app/multiplexed-piezoresistivity</loc>
+            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/bioimpedance</loc>
+            <lastmod>2023-08-17T04:23:05.397Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/tiplets-and-wristlets</loc>
+            <lastmod>2023-08-17T04:23:05.405Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/pcb-emg</loc>
+            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/about</loc>
+            <lastmod>2023-08-17T04:23:05.393Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/blog</loc>
+            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/projects</loc>
+            <lastmod>2023-08-17T04:23:05.405Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/resume</loc>
+            <lastmod>2023-08-17T04:23:05.405Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/elements</loc>
+            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
             <loc>https://urara-demo.netlify.app/hello-world</loc>
-            <lastmod>2021-12-12T00:00:00.000Z</lastmod>
+            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://urara-demo.netlify.app/toc-disabled</loc>
+            <lastmod>2023-08-17T04:23:05.413Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
