@@ -2,7 +2,7 @@
 title: PCB-EMG
 created: 2021-12-06
 tags: ['Electronics', 'Human-Computer Interaction']
-image: '/projects/tiplets-and-wristlets/render.webp'
+image: '/projects/pcb-emg/MainPhoto_PCBEMG.jpeg'
 ---
 
 [`TODO` render image: a human hand that is wearing both TipLets & WristLets]

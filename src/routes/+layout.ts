@@ -5,3 +5,5 @@ export const load: LayoutLoad = async ({ url, fetch }) => ({
   path: url.pathname,
   res: await fetch('/posts.json').then(res => res.json())
 })
+// import inter font
+import "inter-ui/inter.css";

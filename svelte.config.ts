@@ -4,6 +4,7 @@ import type { Config } from '@sveltejs/kit'
 import adapterVercel from '@sveltejs/adapter-vercel'
 import adapterNetlify from '@sveltejs/adapter-netlify'
 import adapterStatic from '@sveltejs/adapter-static'
+import adapterCloudflare from '@sveltejs/adapter-cloudflare'
 // svelte preprocessor
 import { mdsvex } from 'mdsvex'
 import mdsvexConfig from './mdsvex.config.js'
@@ -17,6 +18,8 @@ export default {
       ? adapterVercel()
       : Object.keys(process.env).some(key => key === 'NETLIFY')
       ? adapterNetlify()
+      : Object.keys(process.env).some(key => key === 'CLOUDFLARE_PAGES') 
+      ? adapterCloudflare()
       : adapterStatic({
           pages: 'build',
           assets: 'build',
