@@ -1,6 +1,7 @@
 ---
 title: PCB-EMG
 created: 2021-12-06
+summary: 'using cost-effective manufacturing processes to create extremely affordable EMG electrodes'
 tags: ['Electronics', 'Human-Computer Interaction']
 image: '/projects/pcb-emg/MainPhoto_PCBEMG.jpeg'
 ---

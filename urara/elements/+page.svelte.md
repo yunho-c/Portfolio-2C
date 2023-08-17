@@ -1,6 +1,6 @@
 ---
 title: 'Example Post: Elements'
-created: 2002-06-09
+created: 2000-01-01
 ---
 
 ## Headings

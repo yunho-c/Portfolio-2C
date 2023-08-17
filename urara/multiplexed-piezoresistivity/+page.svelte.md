@@ -1,9 +1,8 @@
 ---
-title: TipLets & WristLets
-created: 2022-08-01
-summary: hardware platforms to help facilitate visual-tactile sensory substitution research
-tags: ['Electronics', 'Human-Computer Interaction']
-image: '/projects/tiplets-and-wristlets/MainPhoto_TipLetsWristLets.jpeg'
+title: Multiplexed Piezoresistivity DAQ Board
+created: 2023-06-10
+tags: ['Electronics', 'Mechanical Engineering']
+image: '/projects/multiplexed-piezoresistivity/PCB-Render.png'
 ---
 
 [`TODO` render image: a human hand that is wearing both TipLets & WristLets]

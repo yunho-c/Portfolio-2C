@@ -10,7 +10,7 @@ export const site: SiteConfig = {
   author: {
     avatar: '/assets/maskable@512.png',
     name: 'Yunho Cho',
-    status: '🌸',
+    status: '👍',
     bio: 'mechanical engineering, interaction design, and software engineering'
   },
   themeColor: '#3D4451'

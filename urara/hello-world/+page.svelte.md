@@ -2,7 +2,7 @@
 title: 'Example Post: Hello World'
 image: '/hello-world/urara.webp'
 alt: 'Urara'
-created: 2002-06-09
+created: 2000-01-01
 ---
 
 Welcome to Urara! this article contains some basic operations to help you quickly get started.
