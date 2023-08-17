@@ -59,14 +59,14 @@ export const header: HeaderConfig = {
       text: 'Projects',
       link: '/'
     },
-    // {
-    //   text: 'About',
-    //   link: '/about'
-    // },
-    // {
-    //   text: 'Resume',
-    //   link: '/resume'
-    // },
+    {
+      text: 'About',
+      link: '/about'
+    },
+    {
+      text: 'Resume',
+      link: '/resume'
+    },
     // {
     //   text: 'Blog',
     //   link: '/blog'

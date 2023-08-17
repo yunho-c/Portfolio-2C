@@ -3,6 +3,7 @@ title: Multiplexed Piezoresistivity DAQ Board
 created: 2023-06-10
 tags: ['Electronics', 'Mechanical Engineering']
 image: '/multiplexed-piezoresistivity/PCB-Render.png'
+summary: towards ML-enabled strain sensors for non-invasive detection of hypertrophic scars
 ---
 
 [`TODO` render image: a human hand that is wearing both TipLets & WristLets]
