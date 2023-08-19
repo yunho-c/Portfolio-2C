@@ -7,67 +7,67 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://urara-demo.netlify.app</loc>
+      <loc>https://yunhocho.com</loc>
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/announcement</loc>
-            <lastmod>2023-08-17T04:23:05.393Z</lastmod>
+            <loc>https://yunhocho.com/announcement</loc>
+            <lastmod>2023-08-19T01:33:23.716Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/multiplexed-piezoresistivity</loc>
-            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <loc>https://yunhocho.com/multiplexed-piezoresistivity</loc>
+            <lastmod>2023-08-19T01:33:23.732Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/bioimpedance</loc>
-            <lastmod>2023-08-17T04:23:05.397Z</lastmod>
+            <loc>https://yunhocho.com/bioimpedance</loc>
+            <lastmod>2023-08-19T01:33:23.720Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/tiplets-and-wristlets</loc>
-            <lastmod>2023-08-17T04:23:05.405Z</lastmod>
+            <loc>https://yunhocho.com/tiplets-and-wristlets</loc>
+            <lastmod>2023-08-19T01:33:23.736Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/pcb-emg</loc>
-            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <loc>https://yunhocho.com/pcb-emg</loc>
+            <lastmod>2023-08-19T01:33:23.732Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/about</loc>
-            <lastmod>2023-08-17T04:23:05.393Z</lastmod>
+            <loc>https://yunhocho.com/about</loc>
+            <lastmod>2023-08-19T01:33:23.540Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/blog</loc>
-            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <loc>https://yunhocho.com/blog</loc>
+            <lastmod>2023-08-19T01:33:23.728Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/projects</loc>
-            <lastmod>2023-08-17T04:23:05.405Z</lastmod>
+            <loc>https://yunhocho.com/projects</loc>
+            <lastmod>2023-08-19T01:33:23.736Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/resume</loc>
-            <lastmod>2023-08-17T04:23:05.405Z</lastmod>
+            <loc>https://yunhocho.com/resume</loc>
+            <lastmod>2023-08-19T01:33:23.736Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/elements</loc>
-            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <loc>https://yunhocho.com/elements</loc>
+            <lastmod>2023-08-19T01:33:23.728Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world</loc>
-            <lastmod>2023-08-17T04:23:05.401Z</lastmod>
+            <loc>https://yunhocho.com/hello-world</loc>
+            <lastmod>2023-08-19T01:33:23.728Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/toc-disabled</loc>
-            <lastmod>2023-08-17T04:23:05.413Z</lastmod>
+            <loc>https://yunhocho.com/toc-disabled</loc>
+            <lastmod>2023-08-19T01:33:23.744Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>

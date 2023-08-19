@@ -3,7 +3,7 @@
   "short_name": "Yunho Cho",
   "lang": "en-US",
   "description": "Powered by SvelteKit/Urara",
-  "id": "https://urara-demo.netlify.app/",
+  "id": "https://yunhocho.com/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -12,25 +12,25 @@
   "theme_color": "#3D4451",
   "icons": [
     {
-      "src": "https://urara-demo.netlify.app/assets/like@192.png",
+      "src": "https://yunhocho.com/assets/like@192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://urara-demo.netlify.app/assets/like@512.png",
+      "src": "https://yunhocho.com/assets/like@512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://urara-demo.netlify.app/assets/eiffel@192.png",
+      "src": "https://yunhocho.com/assets/eiffel@192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://urara-demo.netlify.app/assets/eiffel@512.png",
+      "src": "https://yunhocho.com/assets/eiffel@512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
