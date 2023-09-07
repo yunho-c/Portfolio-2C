@@ -6,6 +6,10 @@ tags: ['Electronics', 'Human-Computer Interaction', 'Assistive Technology']
 image: '/pcb-emg/MainPhoto_PCBEMG.jpeg'
 ---
 
+
+
+
+
 # Intro
 
 EMG sensors measure the extremely small voltages that your muscles generate when they are activated. The combination of multiple EMG sensors targeting different muscles with *machine learning* allows you to predict what kinds of motion you are making---and even how much force you are exerting to your muscles (even if there's no visible motion)!---which is something completely unique to the EMG class of sensors. 

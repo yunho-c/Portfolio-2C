@@ -7,7 +7,7 @@ flags:
 
 Hey there, I'm Yunho. I am a student studying mechanical engineering and psycholoy in [Georgia Tech]()🐝. If you don't mind, why don't you share a bit about yourself as well in the comments? 
 
-### Life Story
+<!-- ### Life Story
 
 I've been interested in engineering for quite a while now -- and, as is true with most other engineers, I've been making, tinkering, and disassembling all sorts of stuff in my house (and failing to assemble back!! 🥲) for practically forever. 
 
@@ -19,7 +19,7 @@ But that experience -- all the sleepless nights, self-doubts, disheartened days,
 
 ### Philosophy of Life
 
-`Warning: some potential 🌽ness ahead`
+`Warning: potential 🌽ness ahead`
 
 So in middle school, thanks to insomnia, I had tons of time to think about all sorts of different things. And once I started to learn about psychology, I saw [a TED talk]() by a guy whose name was Martin Seligman. (If you don't know him---he's a legend, and is known to have started the field of "positive psychology".) In the talk, he makes a point: "If you want to find true happiness, you must find your meaning of life." I was like, 14, so I thought, *... Watchumean? Meaning of life?? Lol what???*, and gamed on. But it stuck in my head, and so I started wondering. 
 
@@ -57,7 +57,7 @@ Unfortunately, I just don't know yet. But I do have candidates.
 
 
 
-### Moving Forward (& Moving Fast)
+### Moving Forward (& Moving Fast) -->
 
 
 
@@ -108,5 +108,5 @@ Below are select photos from my past semester's study abroad.
 ![img](/about/album/sights/bench-party.jpg)
 <p class="text-center"> On Fridays, they enjoy what they call a "bench party"... which is as awesome as it sounds and seems like: they hang out in a city park bench while (publicly) enjoying some beer! ❤️‍🔥 </p>
 
-![img](/about/album/losing-my-hair-(sibal).jpg)
-<p class="text-center"> Last but not least, and back to present: At <b>21 years</b> old... I'm slowly losing my hair. (NOOOOOOOOOO ☠️☠️☠️👨‍🦲👨‍🦲) </p>
+<!-- ![img](/about/album/losing-my-hair-(sibal).jpg)
+<p class="text-center"> Last but not least, and back to present: At <b>21 years</b> old... I'm slowly losing my hair. ☠️☠️☠️☠️☠️ </p> -->
