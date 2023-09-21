@@ -17,6 +17,14 @@ image: '/tiplets-and-wristlets/MainPhoto_TipLetsWristLets.jpeg'
 
 ## Interactive Demonstration
 
+<!-- <div style={{ position: "relative", width: 300, height: 300 }}> -->
+<!-- <div style="width: 100%; height: 100%; aspect-ratio 16/9;"> -->
+<div width="100%" height="100%" style="aspect-ratio: 16/9;">
+    <Canvas>
+        <Scene />
+    </Canvas>
+</div>
+
 [`TODO` illustrative video]
 <!-- [`TODO` interactive demo] -->
 
@@ -151,3 +159,8 @@ Building `TipLets` and `WristLets`, I directly confronted the product developmen
 # Roadmap
 
 - 
+
+<script lang="ts">
+	import { Canvas } from '@threlte/core'
+	import Scene from './scene.svelte'
+</script>
