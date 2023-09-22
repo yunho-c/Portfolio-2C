@@ -59,7 +59,8 @@
 <T.PointLight intensity={6000} position={[4, 10, 4]} color="#76aac8" />
 
 <!-- PCB -->
-{#await useGltf('/src/static/assets/Render.glb') then pcb}
+{#await useGltf('/assets/Render.glb') then pcb}
+  <!-- {#await useGltf('https://github.com/k2m5t2/assets/blob/master/3d_models/tiplets_wristlets.glb?raw=true') then pcb} -->
   <T is={pcb.scene} position={[0, y, 0]} scale={10.0} />
   {(pcbScene = pcb.scene)}
 {/await}
