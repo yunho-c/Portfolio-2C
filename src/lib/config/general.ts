@@ -67,6 +67,14 @@ export const header: HeaderConfig = {
       text: 'Resume',
       link: '/resume'
     },
+    {
+      text: 'Photography',
+      link: 'https://unsplash.com/@yunhocho'
+    },
+    {
+      text: 'Blog',
+      link: 'https://blog.yunhocho.com/'
+    },
     // {
     //   text: 'Blog',
     //   link: '/blog'
