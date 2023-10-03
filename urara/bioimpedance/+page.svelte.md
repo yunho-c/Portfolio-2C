@@ -85,7 +85,8 @@ We built **everything from scratch** aside from the Arduino board and ICs! Isn't
 
 <!-- > shortened problem paragraph, with visuals or graphics to show impact -->
 
-### Searching for Impact
+<!-- ### Searching for Impact -->
+### Search for Practical Impact
 
 When we started to look for ideas, we realized that most wearable sensors in literature sound really nice on paper but lack practical implications for the medical community. 
 
@@ -117,7 +118,7 @@ This is great! If you can perform EIT over regions with a high risk for developi
 
 <!-- As with everything (and especially true in context of electromechanical sensors), many viable ways exist for any given task. We decided to focus on usability in point-of-care scenarios: often, it is not viable (and not at all desirable) to have bulky dedicated equipment that cannot be  -->
 
-### Status Quo
+### State of the Art & Status Quo
 
 One clear drawback of SEM is the need of manually scanning body parts. Given the large number of patients potentially at risk, it is easy to see that performing regular scans are labor-intensive and costly. 
 
@@ -139,7 +140,7 @@ We wanted to know if these sensors truly required those uber-precise benchtop eq
 
 
 
-
+<p class="text-center"> Accuracy evaluation of impedance circuit. </p>
 
 
 

@@ -4,6 +4,8 @@ created: 2023-06-10
 tags: ['Electronics', 'Mechanical Engineering']
 image: '/multiplexed-piezoresistivity/PCB-Render.png'
 summary: towards ML-enabled strain sensors for non-invasive detection of hypertrophic scars
+flags:
+- unlisted
 ---
 
 [`TODO` render image: a human hand that is wearing both TipLets & WristLets]

@@ -3,7 +3,7 @@
   import { OrbitControls, useGltf } from '@threlte/extras'
   // import Bloom from './bloom.svelte'
 
-  let y = 2
+  let y = 0
   let rotation = 0
 
   // Spooky floating ghost 👻
@@ -47,20 +47,25 @@
 <!-- <Bloom /> -->
 
 <!-- Orthographic camera -->
-<T.OrthographicCamera position={[10, 10, 10]} zoom={40} makeDefault>
+<!-- <T.OrthographicCamera position={[10, 8, 10]} zoom={40} makeDefault> -->
+<T.PerspectiveCamera position={[10, 8, 10]} zoom={4} makeDefault>
   <!-- Controls -->
   <OrbitControls enableDamping />
-</T.OrthographicCamera>
+<!-- </T.OrthographicCamera> -->
+</T.PerspectiveCamera>
 
 <!-- Ambient light for ambience -->
 <!-- <T.AmbientLight color="#0000ff" intensity={10} /> -->
 
 <!-- Main light -->
-<T.PointLight intensity={6000} position={[4, 10, 4]} color="#76aac8" />
+<!-- <T.PointLight intensity={6000} position={[4, 10, 4]} color="#76aac8" /> -->
+<T.AmbientLight intensity={30} />
 
 <!-- PCB -->
-{#await useGltf('/assets/Render.glb') then pcb}
+<!-- {#await useGltf('/assets/Render.glb') then pcb} -->
+{#await useGltf('/assets/scene.glb') then pcb}
   <!-- {#await useGltf('https://github.com/k2m5t2/assets/blob/master/3d_models/tiplets_wristlets.glb?raw=true') then pcb} -->
-  <T is={pcb.scene} position={[0, y, 0]} scale={10.0} />
+  <T is={pcb.scene} position={[-1.5, y, -2]} scale={10.0} /> 
+  <!-- position was hardcoded -->
   {(pcbScene = pcb.scene)}
 {/await}

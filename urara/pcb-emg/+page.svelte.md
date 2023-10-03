@@ -74,7 +74,7 @@ The goal was to explore using cost-effective manufacturing processes to create a
 
 I am making the knowledge base publicly available for anyone to use ([link to Notion](https://link.yunhocho.com/pcb-emg-kb)). It consists of papers, research projects, prototyping logs, and any other resources that we have found useful in the process. I hope you do too!
 
-### System Diagram
+### High-Level Overview
 
 parts:
 - (6) pcb-emg units
@@ -85,15 +85,19 @@ parts:
 - main PC & visualization pipeline
 - comparison w/ ground truth (quantitative, qualitative)
 
+`TODO into a Figma diagram`
+
 ### Literature Review
 
-We started by reading papers. Even though we didn't have inclinations to academi (at least at the time), it was simply the only place that we could find any information. Something we learned soon after starting PCB-EMG: **good papers are hard to come by**, and when you do find that paper that contains everything you've ever wanted to know, sometimes you just cannot make up for the lack of domain knowledge by reading it multiple times. 
+We started by reading papers. Even though we didn't have inclinations to academia (at least at the time), it was simply the only place that we could find any information. Something we learned soon after starting PCB-EMG: **good papers are hard to come by**, and when you do find that paper that contains everything you've ever wanted to know, sometimes you just cannot make up for the lack of domain knowledge by reading it multiple times. 
+
+`TODO: organized list of good papers (Litmap perhaps)`
 
 Still, we read enough to get a glimpse of the field and how things work. We learned to read jargons such as multi-unit action potential (MUAP; the sum of voltages from a muscle region), wet and dry electrodes (where wet electrodes involve gels to improve interfacial contact), motion artifacts, instrumentation amplifiers (high-gain amplifiers suitable for noisy settings), filters (analog, digital, different types), and else. We learned useful information, such as that MUAPs vary large enough from muscles to muscles that they require orders-of-magnitudes of adjustments, that dry electrodes actually perform better in longer-term scenarios, that no one really talks about detailed methodologies or design choices behind instrumentation circuits and jumps to results and conclusions. 
 
 In the end, we came up with some estimated values of MUAPs. We were ready to prototype. 
 
-### Datasheet, Schematic, PCB Design
+### Datasheet, Schematic, PCB Design (V1)
 
 <img src='./Pitch_Progress.jpg' class='rounded-lg' width='100%'>
 
@@ -103,9 +107,16 @@ In the end, we came up with some estimated values of MUAPs. We were ready to pro
 - validating the schematic
 - laying out the board
 
+<object width="100%" height="100%" style="aspect-ratio: 16 / 12;" data="V1 Schematic.pdf"></object>
+<object width="100%" height="100%" style="aspect-ratio: 16 / 12;" data="V1 Board.pdf"></object>
+
+### Troubleshooting, Testing, Iteration (V2)
+
+.
+
 ### Fabrication & Assembly
 
-- PCB fabrication & The Hive
+- PCB fabrication @ The Hive
 - JLCPCB & LCSC (process, challenges & lessons)
 - 
 
@@ -122,11 +133,11 @@ In the end, we came up with some estimated values of MUAPs. We were ready to pro
 
 ### Troubleshooting: Noise, Interference, & Amplifier Saturation
 
-
+- saturation behavior
 
 ### Initial Results: Reactive GUI!
 
-
+[bar GUI video]
 
 ### Data Collection Setup
 
@@ -134,13 +145,35 @@ In the end, we came up with some estimated values of MUAPs. We were ready to pro
 
 ### Some Fun w/ Machine Learning
 
+[Open Notebook in Colab](https://drive.google.com/file/d/1C8TlWQBE16Vbn-Ujel24_fARzBcbxNqV/view?usp=sharing)
+
+<!-- <script src="https://gist.github.com/k2m5t2/3c506fa48eafbdbccf675257b0eaa0d9.js"></script> -->
+
+<iframe width="100%" height="450" src="https://gist.github.com/k2m5t2/3c506fa48eafbdbccf675257b0eaa0d9.js"></iframe>
+
+<Gist gistUrl="https://gist.github.com/k2m5t2/3c506fa48eafbdbccf675257b0eaa0d9"/>
+<iframe 
+    width="100%"
+    height="350"    
+    src="data:text/html;charset=utf-8,
+    <head><base target='_blank' /></head>
+    <body><script src='https://gist.github.com/k2m5t2/3c506fa48eafbdbccf675257b0eaa0d9.js'></script>
+    </body>">
+
 
 ### Final Results
 
-
+.
 
 ## Reflection
+
+.
 
 ### What I learned
 
 PCB-EMG was my first "real" electronics project. As such, it meant the most trials-and-error encountered in the process. Working on it, I had to learn how to read datasheets (which is intimidating at first, full of unknown jargons, words of caution and warnings), what a typical electronics design workflow looks like (one big mistake was completing a design before realizing that a crucial component was out of stock for a while!), 
+
+
+<script lang="ts">
+  import Gist from './gist.svelte'
+</script>
