@@ -12,7 +12,7 @@ image: '/tiplets-and-wristlets/MainPhoto_TipLetsWristLets.jpeg'
 
 # Introduction
 
-`TipLets` & `WristLets` are hardware platforms to help facilitate visual-tactile sensory substitution research.
+`TipLets` & `WristLets` are hardware platforms to help facilitate visual-tactile sensory substitution research. This was created as part of my work as a research intern in Asan Medical Center. 
 
 
 ## Interactive Demonstration
@@ -25,11 +25,13 @@ image: '/tiplets-and-wristlets/MainPhoto_TipLetsWristLets.jpeg'
     </Canvas>
 </div>
 
-[`TODO` illustrative video]
+<!-- [`TODO` illustrative video] -->
 <!-- [`TODO` interactive demo] -->
 
 
 # The Problem
+
+> Tip: Navigate the slide deck using the arrow keys on your keyboard :)
 
 <iframe 
     width="100%" height="100%" style="border: 1px solid rgba(0, 0, 0, 0.1); aspect-ratio: 16 / 11;"
@@ -37,19 +39,23 @@ image: '/tiplets-and-wristlets/MainPhoto_TipLetsWristLets.jpeg'
     allowfullscreen 
 />
 
-`TODOs`
+<!-- `TODOs`
 - conceptual mockup in last portion of slides, aesthetic spec-sheet style & illustrations of expected uses & component names
 - foldable text block for text version of slides deck
-- 
+-  -->
 
 <br/>
 
 
 # The Process
 
-![img](/tiplets-and-wristlets/process_temporary.jpeg)
+<!-- ![img](/tiplets-and-wristlets/process_temporary.jpeg) -->
 
-[`TODO` embedded flowchart w/ mouseover popups & clickable modals]
+<!-- [`TODO` embedded flowchart w/ mouseover popups & clickable modals] -->
+
+> Tip: Hover your mouse over each stage to see more details :)
+
+<Flowchart />
 
 ### 
 
@@ -163,4 +169,5 @@ Building `TipLets` and `WristLets`, I directly confronted the product developmen
 <script lang="ts">
 	import { Canvas } from '@threlte/core'
 	import Scene from './scene.svelte'
+    import Flowchart from './flowchart.svelte'
 </script>
