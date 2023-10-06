@@ -10,10 +10,6 @@ export const theme: ThemeConfig = [
     text: '🧛 Dark'
   },
   {
-    name: 'valentine',
-    text: '🌸 Valentine'
-  },
-  {
     name: 'aqua',
     text: '💦 Aqua'
   },
@@ -45,10 +41,6 @@ export const theme: ThemeConfig = [
     name: 'retro',
     text: '🌇 Retro'
   },
-  {
-    name: 'black',
-    text: '🖤 Black'
-  }
 ]
 
 export const head: HeadConfig = {}

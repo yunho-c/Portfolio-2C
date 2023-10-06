@@ -105,7 +105,7 @@ Each TipLets measures 3.0 cm * 2.0 cm - comparable to the size of a penny. This 
 
 ### Vibrotactile Interfaces
 
-A large challenge we encountered was the lack of commercial availability for miniature haptic actuators. Turns out, that the #1 factor behind the consumption of vibration motors are smartphones. And because each smartphone only employs one (or two) motors inside it, and the output power of the actuator is proportional to its size, there has not been much effort in miniaturizing it. There was one manufacturer, Vybronics, which produced a unit that measures 5 mm in diameter, but we kept wondering if we could go even smaller — so that we reach the spatial resolution of fingers. 
+A large challenge we encountered was the lack of commercial availability for miniature haptic actuators. Turns out, that the #1 factor behind the consumption of vibration motors are smartphones. And because each smartphone only employs one (or two) motors inside it, and the output power of the actuator is proportional to its size, there hgitas not been much effort in miniaturizing it. There was one manufacturer, Vybronics, which produced a unit that measures 5 mm in diameter, but we kept wondering if we could go even smaller — so that we reach the spatial resolution of fingers. 
 
 ### MEMA
 
