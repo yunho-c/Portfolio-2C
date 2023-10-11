@@ -159,15 +159,34 @@ We wanted to know if these sensors truly required those uber-precise benchtop eq
 
 ### The Electrode
 
+![img](/bioimpedance/electrode-generation-code.png)
+![img](/bioimpedance/electrode-geometry-generator-failure.png)
+![img](/bioimpedance/electrode-geometry-generator-success.png)
+![img](/bioimpedance/electrode-unit.png)
+
 
 ### Manufacturing
 
+![img](/bioimpedance/ready-for-fabrication.png)
+
+![img](/bioimpedance/ready-for-fabrication-2.png)
+
+There is a bug in KiCad where it doesn't show exposed solder pads unless [TODO remember which one it was] layer is empty
+
+![img](/bioimpedance/ready-for-fabrication-3.png)
 
 ### Breadboard Circuits
 
+- Arduino Uno
+- HC-05
+- AD5933 Impedance Converter
+- AD8608 Transimpedance Amplifier
+- AD8608 Voltage Buffer
 
 
 ### Data Processing
+
+![img](/bioimpedance/python-visualization.png)
 
 
 <br/>
