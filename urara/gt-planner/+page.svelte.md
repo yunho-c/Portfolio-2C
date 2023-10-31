@@ -7,4 +7,4 @@ summary: 🚧 (WIP) intelligent 4-year curriculum optimizer with useful features
 flags:
 ---
 
-<iframe width="100%" height="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/sUs1p9UC82c" title="Georgia Tech 4-Year Curriculum Optimizer: Demo #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="100%" style="aspect-ratio: 16/9;" src="https://www.youtube.com/embed/sUs1p9UC82c" title="Georgia Tech 4-Year Curriculum Optimizer: Demo #1" frameborder="0" allowfullscreen></iframe>

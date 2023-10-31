@@ -59,7 +59,7 @@
 <T.PointLight intensity={20} position={[4, 10, 4]} color="#76aac8" />
 
 <!-- PCB -->
-{#await useGltf('/src/static/assets/Render.glb') then pcb}
+{#await useGltf('/assets/scene.glb') then pcb}
   <T is={pcb.scene} position={[0, y, 0]} scale={10.0} />
   {(pcbScene = pcb.scene)}
 {/await}
