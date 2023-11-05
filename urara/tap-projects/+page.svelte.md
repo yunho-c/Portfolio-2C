@@ -3,7 +3,7 @@ title: Tap Virtual Xbox & Virtual CAD Mouse
 created: 2020-06-09
 tags: ['Machine Learning']
 image: '/tap-projects/TapProjects-Cover.jpg'
-summary: 🚧 (WIP) a series of experimental interactive applications with Tap Strap 2
+summary: 🚧 (WIP) a series of experimental interactive applications using Tap Strap 2
 flags:
 ---
 
