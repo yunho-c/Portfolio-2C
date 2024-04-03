@@ -5,7 +5,7 @@ flags:
 - unlisted
 ---
 
-Hey there, I'm Yunho. I am a student studying mechanical engineering and psycholoy in [Georgia Tech]()🐝. If you don't mind, why don't you share a bit about yourself as well in the comments? 
+Hey there, I'm Yunho. I am a student studying mechanical engineering and psycholoy in [Georgia Tech]()🐝. If you're not too busy, why don't you share a bit about yourself as well in the comments?
 
 <!-- ### Life Story
 
@@ -51,20 +51,13 @@ Unfortunately, I just don't know yet. But I do have candidates.
 
 1. 
 
-
-
 ### What I've Done About it So Far
-
-
 
 ### Moving Forward (& Moving Fast) -->
 
-
-
-
 <br/>
 
-Below are select photos from my past semester's study abroad.
+Below are select photos from my past year's study abroad.
 
 ![img](/about/album/surprise-eiffel-tower.jpg)
 <p class="text-center"> Eiffel Tower ! </p>
@@ -76,37 +69,37 @@ Below are select photos from my past semester's study abroad.
 <p class="text-center"> Stroooooopwafel !!! </p>
 
 ![img](/about/album/arc-de-thumbsup.jpg)
-<p class="text-center"> Arc de Thumbsup. (sorry that I'm like this.)</p>
+<p class="text-center"> Arc de Thumbsup. (sorry)</p>
 
 ![img](/about/album/switchherland.jpg)
-<p class="text-center"> Switzerland — the most beautiful country (and memories) in the world! </p>
+<p class="text-center"> Switzerland — most beautiful mountains (and memories) in the world! </p>
 
 ![img](/about/album/alessandro-and-alessandro.jpg)
 <p class="text-center"> My friend Alessandro met <i>another Alessandro</i> in Belgium! </p>
 
 ![img](/about/album/spiral-starecase.jpg)
-<p class="text-center"> I soon realized that an employee was watching at me and laughing... 💀😇 </p>
+<p class="text-center"> I would soon realize that an employee was watching at me and laughing... 💀😇 </p>
 
 ![img](/about/album/namgoongminsan.jpg)
 <p class="text-center"> This is Namsan (<i>The South Mountain</i>) in Korea! You can see the entire city of Seoul here. </p>
 
-![img](/about/album/namsan.jpg)
-<p class="text-center"> A better view of the city (and me) in this version. </p>
+<!-- ![img](/about/album/namsan.jpg)
+<p class="text-center"> A better view of the city (and me) in this version. </p> -->
 
 ![img](/about/album/sights/good-book.jpg)
-<p class="text-center"> A good book after a whole-entire day of traveling??? I call this <b>a true win.</b> </p>
+<p class="text-center"> A nice book after a whole entire day of traveling??? I call this a dub. </p>
 
 ![img](/about/album/sights/sunset-strong.jpg)
-<p class="text-center"> For the most beautiful sunsets, visit <b>Plovdiv, Bulgaria.</b> </p>
+<p class="text-center"> Visit Plovdiv, Bulgaria for an exotic combination of ancient Roman & eastern European architecture... </p>
 
 ![img](/about/album/sights/sunset-vivid.jpg)
-<p class="text-center"> It happens to be the oldest city in Europe! </p>
+<p class="text-center"> and the beautiful sunsets. It happens to be the oldest city in Europe! </p>
 
 ![img](/about/album/sights/people-in-bulgaria.jpg)
 <p class="text-center"> People in Bulgaria are lovely. </p>
 
 ![img](/about/album/sights/bench-party.jpg)
-<p class="text-center"> On Fridays, they enjoy what they call a "bench party"... which is as awesome as it sounds and seems like: they hang out in a city park bench while (publicly) enjoying some beer! ❤️‍🔥 </p>
+<p class="text-center"> On Fridays, they enjoy what's called a "bench party"... which is as awesome as it sounds and seems: they hang out in a city park bench while (publicly) enjoying some beer! ❤️‍🔥 </p>
 
 <!-- ![img](/about/album/losing-my-hair-(sibal).jpg)
 <p class="text-center"> Last but not least, and back to present: At <b>21 years</b> old... I'm slowly losing my hair. ☠️☠️☠️☠️☠️ </p> -->
