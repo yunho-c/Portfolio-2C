@@ -51,10 +51,10 @@ export const header: HeaderConfig = {
       text: 'Projects',
       link: '/'
     },
-    {
-      text: 'About',
-      link: '/about'
-    },
+    // {
+    //   text: 'About',
+    //   link: '/about'
+    // },
     {
       text: 'Resume',
       link: '/resume'
